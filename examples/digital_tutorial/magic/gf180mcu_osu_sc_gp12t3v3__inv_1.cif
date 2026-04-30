@@ -3,11 +3,11 @@
 ( @@source : gf180mcu_osu_sc_gp12t3v3__inv_1 );
 ( @@tool : Magic 8.3.610 );
 ( @@compiled : Fri Feb 27 11:13:41 AM CST 2026 );
-( @@technology : gf180mcuC );
+( @@technology : gf180mcuD );
 ( @@version : 1.0.575-0-ga1e16e9 );
 ( @@techdesc : Global Foundries 180mcu: open PDK rules and DRC );
 ( @@style : gdsii );
-( @@date : Fri Apr 24 08:17:44 2026 );
+( @@date : Thu Apr 30 10:52:00 2026 );
 DS 1 1 20;
 9 gf180mcu_osu_sc_gp12t3v3__inv_1;
 L NWELL;
